@@ -62,11 +62,13 @@ services:
 
 ---
 
-## Thanks
+## Credits
 
-[Ygg-API](https://yggapi.eu/) for providing the API.
+[Jackett](https://github.com/Jackett/Jackett)
 
-[Clemv95](https://github.com/Clemv95) for the Ygg-API indexer.
+[Ygg-API](https://yggapi.eu/)
+
+[Clemv95](https://github.com/Clemv95)
 
 ---
 ---
@@ -122,8 +124,10 @@ services:
 
 ---
 
-## Remerciements
+## Crédits
 
-[Ygg-API](https://yggapi.eu/) pour l'API.
+[Jackett](https://github.com/Jackett/Jackett)
 
-[Clemv95](https://github.com/Clemv95) pour l'indexeur Ygg-API.
+[Ygg-API](https://yggapi.eu/)
+
+[Clemv95](https://github.com/Clemv95)
